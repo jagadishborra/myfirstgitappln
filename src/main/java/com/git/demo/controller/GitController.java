@@ -13,7 +13,7 @@ public class GitController {
 
 	@GetMapping(path = "/getStudentInfo", produces = MediaType.APPLICATION_JSON_VALUE)
 	public Student getStudentInfo() {
-		Student student = new Student("1", "jaagu123", "31", "male", "testing");
+		Student student = new Student("1", "jaagu123", "31", "male", "testing","jagguFather");
 
 		return student;
 	}
