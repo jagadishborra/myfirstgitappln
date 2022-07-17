@@ -15,6 +15,6 @@ public class Student {
 	private String age;
 	private String gender;
 	private String schooolName;
-	
+	private String motherName;
 
 }
