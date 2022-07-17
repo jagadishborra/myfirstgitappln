@@ -16,5 +16,7 @@ public class Student {
 	private String gender;
 	private String schooolName;
 	private String motherName;
+	private String fatherName;
+	
 
 }
